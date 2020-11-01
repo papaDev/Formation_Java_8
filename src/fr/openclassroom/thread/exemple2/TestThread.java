@@ -1,5 +1,6 @@
 package fr.openclassroom.thread.exemple2;
 
+
 public class TestThread extends Thread {
 
     public TestThread(String name) {
